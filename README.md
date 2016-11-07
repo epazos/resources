@@ -1,5 +1,5 @@
 # resources
-Recopilación de recursos sobre programación para convertirte en un ninja :fire: 
+Recopilación de recursos sobre programación para convertirte en un ninja :fire: mi
 ![](http://animationsa2z.com/attachments/Image/ninja/ninja17.gif)
 
 ## Javascript
